@@ -34,20 +34,21 @@
         },
         {
             "id": 5,
-            "firstName": "auzan",
-            "lastName": "assidqi",
-            "email": "auzanassidqi@gmail.com",
-            "age": 25,
-            "companyID": 3
+            "firstName": "herdanu",
+            "lastName": "yudistira",
+            "email": "******@gmail.com",
+            "age": "unknown",
+            "companyID": 5
         },
         {
             "id": 6,
-            "firstName": "mevin",
-            "lastName": "muhammad",
-            "email": "mmevinalifviyanuar@gmail.com",
-            "age": 30,
-            "companyID": 4
+            "firstName": "miftah",
+            "lastName": "faris",
+            "email": "******@gmail.com",
+            "age": "unknown",
+            "companyID": 5
         }
+        
 
         
     ],
@@ -71,6 +72,11 @@
             "id": 4,
             "name": "traveloka",
             "description": "Traveloka (est. in 2012) is an Indonesian unicorn company that provides airline ticketing and hotel booking services online expanding rapidly into South East Asia[2] and Australia[3]. It recently expanded to provide lifestyle products and services, such as attraction tickets, activities, car rental, and restaurant vouchers."
+        },
+        {
+            "id": 5,
+            "name": "ImpactByte",
+            "description": ""
         }
     ]
         
